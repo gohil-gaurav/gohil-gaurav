@@ -14,6 +14,10 @@
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
 ---
 
 ## 🧠 Skills & Knowledge
