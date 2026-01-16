@@ -23,32 +23,6 @@
 
 ---
 
-## 🧠 Skills & Knowledge
-
-### 💻 Programming & Backend
-- Python  
-- Django  
-- Flask  
-- C  
-
-### 📊 Data Science & Machine Learning
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Statistics  
-- Machine Learning (Basics)
-
-### 🌐 Web & Tools
-- HTML  
-- CSS  
-- Git & GitHub  
-- VS Code  
-- PythonAnywhere  
-- Kaggle  
-
----
-
 ## 🌱 What I'm Currently Doing
 - Strengthening **Python & Django backend skills**
 - Learning **Machine Learning fundamentals**
