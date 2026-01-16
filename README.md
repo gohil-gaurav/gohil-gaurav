@@ -11,7 +11,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,c,git,github,pycharm,vscode" />
 </p>
 
 <p align="center">
