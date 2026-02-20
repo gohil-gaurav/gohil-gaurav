@@ -31,18 +31,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 📝 BlogNest — Django Blog Management System
-- Multi-role authentication & authorization
-- Role-based dashboards (Manager / Editor)
-- Categories, comments & search functionality
-- Fully deployed on PythonAnywhere
-
-🔗 **Live Demo:** https://gaurav89.pythonanywhere.com/
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
