@@ -25,7 +25,7 @@ exploring Machine Learning, and contributing to open source.
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,c,git,github,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,c,git,github,pycharm,vscode,fastapi" />
 </p>
 
 <p align="center">
