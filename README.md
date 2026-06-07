@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Gohil</h1>
+<h1 align="center">Hey 👋, I'm Gaurav Gohil</h1>
 <h3 align="center">Python Developer | Django | Backend & Data Enthusiast</h3>
 
 <p align="center">
