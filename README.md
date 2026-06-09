@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gaurav Gohil</h1>
-<h3 align="center">Python Developer | Django | Backend & Data Enthusiast</h3>
+<h3 align="center">Python Developer | Fast API | Backend & Data Enthusiast</h3>
 
 <p align="center">
 Passionate about building real-world web applications,  
