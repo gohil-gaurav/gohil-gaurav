@@ -23,15 +23,6 @@ exploring Machine Learning, and contributing to open source.
 
 ---
 
-## 🌱 What I'm Currently Doing
-
-* Strengthening **Python & Django backend skills**
-* Learning **Machine Learning fundamentals**
-* Contributing to **open-source projects**
-* Building and improving **real-world projects**
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
